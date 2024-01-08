@@ -48,5 +48,5 @@ I am a graduate with 3+ years of Data Engineering / Analytical experience. I am 
 
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=pateldhaval714&label=Profile%20Views&color=1&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=[pateldhaval714](http://www.github.com/pateldhaval714)&label=Profile%20Views&color=1&pretty=false" />
 </a>
