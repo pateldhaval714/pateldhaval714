@@ -46,3 +46,5 @@ I am a graduate with 3+ years of Data Engineering / Analytical experience. I am 
 
 <a href="http://www.github.com/pateldhaval714"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pateldhaval714/&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+
+Profile Hits: [![HitCount](https://hits.dwyl.com/pateldhaval714/pateldhaval714.svg?style=flat-square)](http://hits.dwyl.com/pateldhaval714/pateldhaval714)
