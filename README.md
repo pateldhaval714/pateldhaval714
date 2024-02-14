@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dhaval Patel
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Thank you for stopping by! 
 ====================================================================================================================================
 
 I am a graduate with 3+ years of Data Engineering / Analytical experience. I am proficient in optimizing database performance, automating ETL workflows, and implementing scalable solutions
