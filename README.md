@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Thank you for stopping by! 
 ====================================================================================================================================
 
-Recent graduate with 3+ years of Data Engineering / Analytical experience. I am proficient in optimizing database performance, automating ETL workflows, developing visualizations and implementing scalable data solutions
+I am a recent graduate with 3+ years of Data Engineering / Analytical experience, proficient in optimizing database performance, automating ETL workflows, developing visualizations and implementing scalable data solutions
 
 *   🌱 I’m currently learning Data Engineering concepts and how it can be used in real-life scenarios
 *   👯 I’m looking to collaborate with teams with full-time opprtunities
