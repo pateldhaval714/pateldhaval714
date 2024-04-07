@@ -51,6 +51,8 @@ I am a recent graduate with 3+ years of Data Engineering / Analytical experience
 </a>
 </p>
 
+</br>
+
 <!---
 ### <b>📊 GitHub Stats</b>
 
