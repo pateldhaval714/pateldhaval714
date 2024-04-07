@@ -41,7 +41,7 @@ I am a recent graduate with 3+ years of Data Engineering / Analytical experience
 </a></p>
 
 <p align="left">
-<a href="https://www.coursera.org/learn/gcp-big-data-ml-fundamentals" target="_blank" rel="noreferrer"> 📄 Google Cloud Big Data and Machine Learning Fundamentals 
+<a href="https://coursera.org/share/05b4f84105152d6df037b4788b90a310" target="_blank" rel="noreferrer"> 📄 Google Cloud Big Data and Machine Learning Fundamentals 
 </a>
 </p>
 
