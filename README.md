@@ -3,10 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a recent graduate with 3+ years of Data Engineering / Analytical experience, proficient in optimizing database performances, automating ETL workflows, developing visualizations and implementing scalable data solutions
 
-*   🌱 I’m currently learning Software Engineering concepts and how it can be used in real-life scenarios
-*   👯 I’m looking to collaborate with teams with full-time opportunities
-*   💬 Ask me about Cricket, Football, and Software we will talk for hours
-*   🤔 Fun fact: Around 2.5 quintillion bytes worth of data is generated each day
+   🌱 I’m currently learning Software Engineering concepts and how it can be used in real-life scenarios
+   👯 I’m looking to collaborate with teams with full-time opportunities
+   💬 Ask me about Cricket, Football, and Software we will talk for hours
+   🤔 Fun fact: Around 2.5 quintillion bytes worth of data is generated each day
 
 
 <p align="left">
@@ -43,11 +43,11 @@ I am a recent graduate with 3+ years of Data Engineering / Analytical experience
 ### 📄 Certifications
 
 <p align="left">
-<a href="https://coursera.org/share/05b4f84105152d6df037b4788b90a310" target="_blank" rel="noreferrer">Google Cloud Big Data and Machine Learning Fundamentals 
+<a href="https://coursera.org/share/05b4f84105152d6df037b4788b90a310" target="_blank" rel="noreferrer">* Google Cloud Big Data and Machine Learning Fundamentals 
 </a> </br>
-<a href="https://coursera.org/share/fe3981be7bb11bf69730331b412a03a1" target="_blank" rel="noreferrer">Modernizing Data Lakes and Data Warehouses with Google Cloud 
+<a href="https://coursera.org/share/fe3981be7bb11bf69730331b412a03a1" target="_blank" rel="noreferrer">* Modernizing Data Lakes and Data Warehouses with Google Cloud 
 </a> </br>
-<a href="https://coursera.org/share/1e85c241c2e41bd3db97e04f25b3e8db" target="_blank" rel="noreferrer">Building Batch Data Pipelines on Google Cloud 
+<a href="https://coursera.org/share/1e85c241c2e41bd3db97e04f25b3e8db" target="_blank" rel="noreferrer">* Building Batch Data Pipelines on Google Cloud 
 </a>
 </p>
 
