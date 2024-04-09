@@ -5,7 +5,7 @@ I am a recent graduate with 3+ years of Data Engineering / Analytical experience
 
 *   🌱 I’m currently learning Data Engineering concepts and how it can be used in real-life scenarios
 *   👯 I’m looking to collaborate with teams with full-time opportunities
-*   💬 Ask me about Cricket, Football, and Software we will talk for hours
+*   💬 Ask me about Cricket, Football, and Data we will talk for hours
 *   🤔 Fun fact: Around 2.5 quintillion bytes worth of data is generated each day
 
 
