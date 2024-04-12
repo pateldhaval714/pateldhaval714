@@ -48,8 +48,8 @@ I am a recent graduate with 3+ years of Data Engineering / Analytical experience
 * <a href="https://coursera.org/share/fe3981be7bb11bf69730331b412a03a1" target="_blank" rel="noreferrer">Modernizing Data Lakes and Data Warehouses with Google Cloud 
 </a> </br>
 * <a href="https://coursera.org/share/1e85c241c2e41bd3db97e04f25b3e8db" target="_blank" rel="noreferrer">Building Batch Data Pipelines on Google Cloud 
-</a>
-* <a href="https://www.coursera.org/account/accomplishments/verify/EPZX3J86ZMAY" target="_blank" rel="noreferrer">Building Batch Data Pipelines on Google Cloud 
+</a> </br>
+* <a href="https://www.coursera.org/account/accomplishments/verify/7JMRX8E7ZAG5" target="_blank" rel="noreferrer">Python Project for Data Engineering 
 </a>
 </p>
 
