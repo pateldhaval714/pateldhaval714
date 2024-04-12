@@ -49,6 +49,8 @@ I am a recent graduate with 3+ years of Data Engineering / Analytical experience
 </a> </br>
 * <a href="https://coursera.org/share/1e85c241c2e41bd3db97e04f25b3e8db" target="_blank" rel="noreferrer">Building Batch Data Pipelines on Google Cloud 
 </a>
+* <a href="https://www.coursera.org/account/accomplishments/verify/EPZX3J86ZMAY" target="_blank" rel="noreferrer">Building Batch Data Pipelines on Google Cloud 
+</a>
 </p>
 
 </br>
