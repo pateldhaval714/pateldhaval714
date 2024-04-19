@@ -52,9 +52,10 @@ I am a recent graduate with 3+ years of Data Engineering / Analytical experience
 * <a href="https://www.coursera.org/account/accomplishments/verify/7JMRX8E7ZAG5" target="_blank" rel="noreferrer">Python Project for Data Engineering 
 </a> </br>
 * <a href="https://www.coursera.org/account/accomplishments/verify/C25H39U4NDPK" target="_blank" rel="noreferrer">Building Resilient Streaming Analytics Systems on Google Cloud 
-</a>
+</a> </br>
 * <a href="https://www.coursera.org/account/accomplishments/verify/2FEKM446LR8X" target="_blank" rel="noreferrer">Smart Analytics, Machine Learning, and AI on Google Cloud 
-</a>
+</a> </br>
+
 </p>
 
 </br>
