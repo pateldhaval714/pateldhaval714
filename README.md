@@ -43,6 +43,8 @@ I am a recent graduate with 3+ years of Data Engineering / Analytical experience
 ### 📄 Certifications
 
 <p align="left">
+<b> Data Engineering, Big Data, and Machine Learning on GCP </b>
+  
 * <a href="https://coursera.org/share/05b4f84105152d6df037b4788b90a310" target="_blank" rel="noreferrer">Google Cloud Big Data and Machine Learning Fundamentals 
 </a> </br>
 * <a href="https://coursera.org/share/fe3981be7bb11bf69730331b412a03a1" target="_blank" rel="noreferrer">Modernizing Data Lakes and Data Warehouses with Google Cloud 
