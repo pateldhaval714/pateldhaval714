@@ -60,6 +60,9 @@ I am a recent graduate with 3+ years of Data Engineering / Analytical experience
 * <a href="https://www.coursera.org/account/accomplishments/verify/7JMRX8E7ZAG5" target="_blank" rel="noreferrer">Python Project for Data Engineering 
 </a> </br>
 
+<b>Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate</b>
+</br>
+
 </p>
 
 </br>
