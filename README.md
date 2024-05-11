@@ -61,7 +61,7 @@ I am a recent graduate with 5+ years of Data Engineering / Analytical experience
 </a> </br>
 
 <b>Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate</b>
-* <a href="https://coursera.org/share/6203373ca8a788dafeca9bfa7873ea24
+* <a href="https://coursera.org/share/6203373ca8a788dafeca9bfa7873ea24" target="_blank" rel="noreferrer"> Microsoft Azure for Data Engineering
 </a> </br>
 
 </br>
