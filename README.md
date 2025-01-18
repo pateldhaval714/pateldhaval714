@@ -63,6 +63,10 @@ Currently I am working as a Data Engineer at CVS Health and working with SQL, Py
 
 <b>Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate</b>
 * <a href="https://coursera.org/share/6203373ca8a788dafeca9bfa7873ea24" target="_blank" rel="noreferrer"> Microsoft Azure for Data Engineering
+</a>
+
+<b>GCP Professional Data Engineer Certification</b>
+* <a href="https://www.credly.com/badges/79306b8a-b9da-45f4-85df-f2fe0e813d3f/linked_in?t=sq62jb" target="_blank" rel="noreferrer"> Google Cloud Platform Professional Data Engineer
 </a> </br>
 
 </br>
